@@ -8,5 +8,5 @@ This dataset can be accessed from Kaggle: https://www.kaggle.com/datasets/brunoa
 Open **210projfinal.ipynb** and ensure all necessary libraries are imported. Add the downloaded dataset from kaggle into the same folder as **210projfinal.ipynb**. 
 Additionally, make sure the path to the downloaded csv file is correct and personalized to your device. 
 ## Notes
-The heatmap is not showing in the preview, but will work when run on your machine.
+The heatmap is not showing in the preview, but it will work when it is run on your machine.
 ## Video Demo
