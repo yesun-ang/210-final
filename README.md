@@ -9,4 +9,3 @@ Open **210projfinal.ipynb** and ensure all necessary libraries are imported. Add
 Additionally, make sure the path to the downloaded csv file is correct and personalized to your device. 
 ## Notes
 The heatmap is not showing in the preview, but it will work when it is run on your machine.
-## Video Demo
